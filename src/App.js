@@ -1,6 +1,7 @@
 import React from 'react';
 // import SetupUseState from './tutorial/1-useState/setup/1-error-example-mine';
-import SetupUseState from './tutorial/1-useState/setup/2-useState-basics-mine';
+// import SetupUseState from './tutorial/1-useState/setup/2-useState-basics-mine';
+import SetupUseState from './tutorial/1-useState/setup/3-useState-array-mine';
 
 function App() {
   return (
