@@ -11,4 +11,4 @@ function AppUseEffect() {
     )
 }
 
-export default AppUseEffect
+export default AppUseEffect;
