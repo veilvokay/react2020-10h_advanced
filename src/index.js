@@ -11,6 +11,7 @@ import AppUseCtx from "./AppUseCtx";
 import AppCustomHooks from "./AppCustomHooks";
 import AppPropTypes from "./AppPropTypes";
 import AppReactRouter from "./AppReactRouter";
+import AppMemo from "./AppMemo";
 
 ReactDOM.render(
   <React.StrictMode>
@@ -23,7 +24,8 @@ ReactDOM.render(
     {/* <AppUseCtx /> */}
     {/* <AppCustomHooks /> */}
     {/* <AppPropTypes /> */}
-    <AppReactRouter />
+    {/* <AppReactRouter /> */}
+    <AppMemo />
   </React.StrictMode>,
   document.getElementById("root")
 );
